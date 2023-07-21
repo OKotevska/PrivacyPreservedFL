@@ -1,4 +1,4 @@
-# PrivacyPreservedFL
+# Privacy-Preserved Federated Learning (PPFL)
  
 
 ## Getting started
