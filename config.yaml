@@ -1,0 +1,4 @@
+experiment:
+  epoch: 20
+  batch_size: 8
+  # 2**3
