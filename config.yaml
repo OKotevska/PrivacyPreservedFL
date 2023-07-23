@@ -1,0 +1,8 @@
+experiment:
+  epoch: 20
+  batch_size: 8
+  # 2**3
+  clients: 5
+  learning_rate: 1e-2
+  weight_decay: 1e-2
+  patience: 5
